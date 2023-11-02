@@ -1,0 +1,40 @@
+.row1 {
+    height:30px;
+    width:548px;
+   
+}
+.col{
+    height:30px;
+    width:300px;
+    float:left;
+    
+}
+.text{
+	
+	height:25px;
+	width:240px;
+	float:left;
+	font-size:16px;
+	text-align: center;
+	line-height:25px;
+
+}
+
+.text-name {
+
+    height:23px;
+    width:190px;
+    float:left;
+   
+}
+.button{
+	
+    height:29px;
+    width:100px;
+    float:left;
+    margin-left:2px;
+    
+}
+
+
+
